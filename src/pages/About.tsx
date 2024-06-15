@@ -19,7 +19,7 @@ export const About = () => {
         description={sectionDescription}
       />
       <div className="flex gap-2 text-md lg:text-xl font-medium">
-        <h2 className="font-semibold">Hello, i'm John Kenneth D. Dagasdas</h2>
+        <h2 className="font-semibold">Hello, i'm John</h2>
         <div className="ml-1 animate-waving-hand">👋</div>
       </div>
       <p>
