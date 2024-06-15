@@ -21,19 +21,19 @@ export const Portfolio = () => {
       link: 'https://codebayu.com',
     },
     {
-      id: 12,
+      id: 3,
       name: 'Portfolio Project',
       image: '/portfolio.webp',
       link: 'https://codebayu.com',
     },
     {
-      id: 13,
+      id: 4,
       name: 'Portfolio Project',
       image: '/portfolio.webp',
       link: 'https://codebayu.com',
     },
     {
-      id: 15,
+      id: 5,
       name: 'Portfolio Project',
       image: '/portfolio.webp',
       link: 'https://codebayu.com',
